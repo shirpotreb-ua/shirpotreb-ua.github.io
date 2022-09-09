@@ -1,1 +1,1 @@
-# shirpotreb-ua.github.io
+# shirpotreb.github.io
